@@ -1,3 +1,5 @@
 hesto es el inicio de git y git hub
 
 aqui es donde se puede hacer el versionamiento
+
+mi nombre es john hernandez y tengo 21 años
