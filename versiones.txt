@@ -3,3 +3,8 @@ hesto es el inicio de git y git hub
 aqui es donde se puede hacer el versionamiento
 
 mi nombre es john hernandez y tengo 21 años
+
+cada nueva version se analiza con git show
+
+para comparar una versio muy antigua con una nueva se puede usar el comando git log <nombre del archivo>
+y para compara entre 2 versiones git diff y el codigo que aparece en cada version.
