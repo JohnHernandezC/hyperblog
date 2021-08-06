@@ -10,3 +10,6 @@ para comparar una versio muy antigua con una nueva se puede usar el comando git 
 y para compara entre 2 versiones git diff y el codigo que aparece en cada version.
 
 esto es lo ultimo del 6 de agosto
+
+hoy hablaremos de mi vida
+
