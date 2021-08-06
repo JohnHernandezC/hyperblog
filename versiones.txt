@@ -12,4 +12,4 @@ y para compara entre 2 versiones git diff y el codigo que aparece en cada versio
 esto es lo ultimo del 6 de agosto
 
 hoy hablaremos de mi vida
-
+y su obra maestra la cual no exixte
